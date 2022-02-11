@@ -2,7 +2,7 @@ import requests
 api_key = '790b1ff41b344d8c7ea4dfa4ff9bfa35'
 import smtplib
 import time
-password = "spongeBob10"
+password = ""
 
 
 
